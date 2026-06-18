@@ -1,59 +1,37 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## Identitas Mahasiswa
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+**Nama:** Sandi Maftuh
+**NIM:** 60324010
+**Mata Kuliah:** Pemrograman Web
+**Pertemuan:** 13
+**Universitas:** UIN K.H. Abdurrahman Wahid Pekalongan
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Deskripsi Pengumpulan Tugas Pertemuan 13
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Repository ini berisi hasil implementasi tugas Pemrograman Web Pertemuan 13 menggunakan Framework Laravel. Fitur yang dikerjakan meliputi:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+1. **Auto Generate Kode Anggota**
+<img width="1366" height="768" alt="2026-06-19 (2)" src="https://github.com/user-attachments/assets/575431a5-4a5e-4681-90c6-e2dff318d623" />
+<img width="1366" height="768" alt="2026-06-19 (5)" src="https://github.com/user-attachments/assets/e0170f8f-3b38-4a2b-a5ac-37226aa07cc7" />
+   * Format kode: AGT-TAHUN-NOMOR_URUT
+   * Kode anggota dibuat otomatis saat menambah data anggota baru.
 
-## Learning Laravel
+3. **Export Data Anggota ke Excel**
+<img width="1366" height="768" alt="2026-06-18 (17)" src="https://github.com/user-attachments/assets/7afd10a1-423e-4eff-8e35-e1eba2f04cd2" />
+<img width="1366" height="768" alt="2026-06-19" src="https://github.com/user-attachments/assets/f1f243bb-d8c3-43e4-ba2c-3e4dbfbfa541" />
+<img width="1366" height="768" alt="2026-06-19" src="https://github.com/user-attachments/assets/42054e76-e450-4df1-837b-d94392e726d0" />
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+   * Menggunakan package Laravel Excel (Maatwebsite Excel).
+   * Data anggota dapat diunduh dalam format `.xlsx`.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+5. **Advanced Search & Filter**
+<img width="1366" height="768" alt="2026-06-19 (3)" src="https://github.com/user-attachments/assets/eb025472-5411-427c-ad16-b9be2e230719" />
+<img width="1366" height="768" alt="2026-06-19 (4)" src="https://github.com/user-attachments/assets/06c9448d-19e8-4b77-97f6-e58ac5f0b0eb" />
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+   * Pencarian berdasarkan nama, email, dan nomor telepon.
+   * Filter berdasarkan jenis kelamin, status anggota, dan pekerjaan.
 
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Seluruh fitur telah diuji dan berjalan sesuai dengan spesifikasi tugas yang diberikan.
