@@ -1,10 +1,14 @@
-## Identitas Mahasiswa
+# 📚 Tugas Pertemuan 13 Pemrograman Web
 
-**Nama:** Sandi Maftuh
-**NIM:** 60324010
-**Mata Kuliah:** Pemrograman Web
-**Pertemuan:** 13
-**Universitas:** UIN K.H. Abdurrahman Wahid Pekalongan
+## 👨‍🎓 Identitas Mahasiswa
+
+| Keterangan | Detail |
+|------------|---------|
+| Nama | Ahmad Sandi Maftuh Firdaus |
+| Mata Kuliah | Pemrograman Web |
+| Pertemuan | 13 |
+| Program Studi | Informatika |
+| Universitas | Universitas Islam Negeri K.H. Abdurrahman Wahid Pekalongan |
 
 ---
 
